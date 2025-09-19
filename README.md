@@ -10,7 +10,7 @@ I contributed to **UI/UX design** and idea development.
 
 # WORD
 <a href="https://docs.google.com/document/d/1JH7f7lKhDlE9DIC7S2ewPSq8e5cWesaW/edit?%20usp=sharing#heading=h.xkp7bxgcedx1" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Word_logo_%282019%29.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" 
        alt="Microsoft Word" 
        width="120"/>
 </a>
